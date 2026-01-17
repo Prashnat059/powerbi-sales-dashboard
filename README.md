@@ -2,8 +2,8 @@
 # 📊 Power BI Sales Dashboard
 
 An interactive Power BI dashboard designed to track key business KPIs and performance metrics.
-
-![Dashboard Overview](assets/dashboard-overview.png)
+[
+![Dashboard Overview](assets/dashboard-overview.png)](https://github.com/Prashnat059/powerbi-sales-dashboard/blob/main/dashboard.pbix)
 
 ---
 
